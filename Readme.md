@@ -29,3 +29,7 @@ Swaraj Mundruppady Rao
 
 
 ## Link to Github : https://github.com/SwarajMundruppadyRao/Moveit2-Franka-Emika-
+
+## Video Link
+
+- https://youtu.be/C-swMMOO8A0
