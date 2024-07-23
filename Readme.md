@@ -1,11 +1,10 @@
-# Project 4 - ENPM 661 - Franka Emika Panda Robot
+# Pick and Place operation using Franka Emika Panda Robot
 
 ## Description
-This repository contains the code and documentation for Project 4 of the ENPM 661 course.
+This repository contains the code for controlling the Franka Emika Panda Robot to execute pick and place operations using Moveit2 
 
 ## Author
 - Name: Swaraj Mundruppady Rao
-- UID: 120127007
 
 ## Requirements
 - MoveIt library
