@@ -27,9 +27,6 @@ Swaraj Mundruppady Rao
    ```
 8. The terminal window will show the movement being performed and will also show what movement is being carried out.
 
-
-## Link to Github : https://github.com/SwarajMundruppadyRao/Moveit2-Franka-Emika-
-
 ## Video Link
 
 - https://youtu.be/C-swMMOO8A0
