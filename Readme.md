@@ -4,7 +4,7 @@
 This repository contains the code for controlling the Franka Emika Panda Robot to execute pick and place operations using Moveit2 
 
 ## Author
-- Name: Swaraj Mundruppady Rao
+Swaraj Mundruppady Rao
 
 ## Requirements
 - MoveIt library
