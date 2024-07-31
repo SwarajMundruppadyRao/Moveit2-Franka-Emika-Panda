@@ -29,6 +29,5 @@ Swaraj Mundruppady Rao
 
 ## Video Link
 
-[Watch this video](https://youtu.be/C-swMMOO8A0)
 [![Video Thumbnail](https://img.youtube.com/vi/C-swMMOO8A0/0.jpg)](https://youtu.be/C-swMMOO8A0)
 
